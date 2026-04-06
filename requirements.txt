@@ -1,0 +1,4 @@
+pandas
+streamlit
+gplay_scraper
+curl_cffi
